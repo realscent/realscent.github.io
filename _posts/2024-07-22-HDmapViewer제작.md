@@ -5,12 +5,8 @@ categories: [Manual]
 tags: [HDmap_Viewer]
 ---
 
-HDmap viewer 개발과 공유 및 원활한 배포
+HDmap viewer 개발성과를 공유 및 원활한 배포함.
 
-## Menual
-
-[HDmap_Viewer1.0_READEME](https://docs.google.com/presentation/d/1OwfA6Q_a3zGi3iah04wsiR9ZaDEcFOwv/edit?usp=drive_link&ouid=110477335478538752374&rtpof=true&sd=true
-)
 
 ## Description
 HD-MAP 제작을 위해서 위치에 따른 카메라영상 판독을 목적으로 만들어 졌다. 궁극적으로는 QGIS와 같은 도화툴의 위치와 카메라영상을 Join하여 판독하는 것이다.
